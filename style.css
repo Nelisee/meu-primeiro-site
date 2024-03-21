@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
+    background-color: rgb(107, 5, 10);
+    color: rgb(190, 150, 150);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+margin: 0 16px;
+}
