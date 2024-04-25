@@ -4,12 +4,12 @@
 }
 
 .cabeçalho {
-    background-color: rgb(107, 5, 10);
-    color: rgb(190, 150, 150);
+    background-color:blueviolet;
+    color: whitesmoke;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px;
+    padding: 24px 0;
 }
 
 .cabeçalho-imagem{
@@ -23,5 +23,11 @@
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 5%;
+}
+
+.escola{
+    background-image: linear-gradient (blueviolet, whitesmoke);
+    color: plum;
+    display: flex;
 }
